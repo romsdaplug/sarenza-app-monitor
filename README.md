@@ -22,4 +22,4 @@ All you have to do is :
 
 
 
-![App Screenshot](https://cdn.discordapp.com/attachments/808528452000808990/1128230656925773885/Capture_decran_2023-07-11_a_09.29.28.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/808528452000808990/1128232097027477605/Capture_decran_2023-07-11_a_09.50.36.png)
