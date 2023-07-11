@@ -1,6 +1,6 @@
 # Sarenza Backend (App) Monitor
 
-- I've opened sourced the monitor that i've been used for last months to get notified about restocks on limited sneakers such as Ugg Ultra Mini Platform.
+- This an open source of the monitor that i've been used for last months to get notified about restocks on limited sneakers such as Ugg Ultra Mini Platform.
 
 - It will send you a Discord notification by webhook once stock changes on whatever product you want from Sarenza.
  
