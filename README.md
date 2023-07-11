@@ -1,4 +1,4 @@
-**Sarenza Backend (App) Monitor**
+# Sarenza Backend (App) Monitor
 
 - I've opened sourced the monitor that i've been used for last months to get notified about restocks on limited sneakers such as Ugg Ultra Mini Platform.
 
@@ -8,7 +8,7 @@
 
 
 
-*Installation*
+## Installation
 
 All you have to do is : 
 
